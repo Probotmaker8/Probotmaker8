@@ -1,4 +1,5 @@
-### - 🔭 I’m currently working on nothing
+### - About me
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Python,java script 
 - 👯 I’m looking to collaborate on Github and heroku
 - 💬 Ask me about Lazy
