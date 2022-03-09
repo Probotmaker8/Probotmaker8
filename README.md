@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,java script 
 - 👯 I’m looking to collaborate on Github and heroku
 - 💬 Ask me about Lazy
-- 📫 How to reach me: http://t.me/Bad_Bunny_444
+- 📫 How to reach me: @Bad_Bunny_444
 - ⚡ Fun fact: Iam super lazy
 
 <!--
