@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://t.me/Bad_Bunny_444"><img alt="Telegram" src="https://img.shields.io/badge/Bad Bunny-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/ML_MOVIE_LOKAM">
-    &nbsp;<img src="https://img.shields.io/badge/ML MOVIE LOKAM?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/ML MOVIE LOKAM-Group-blue?" width="200" height="28">&nbsp;
   </a>
 </p>
 <p align="center">
