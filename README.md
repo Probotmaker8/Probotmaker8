@@ -1,6 +1,6 @@
 ###  🥰 Hi, Iam Bad Bunny
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Probotmaker8/&title=Profile%20Views)
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Bad+Bunny's+Profile)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Bad+Bunny)](https://git.io/typing-svg) &nbsp;&nbsp;
 
 
 * 📚 Student and Learning Python 
